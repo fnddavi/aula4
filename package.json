@@ -1,0 +1,16 @@
+{
+  "name": "teste-vs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/ex1",
+    "dois": "node ./src/ex2",
+    "tres": "node ./src/ex3",
+    "quatro": "node ./src/ex4",
+    "cinco": "node ./src/ex5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
